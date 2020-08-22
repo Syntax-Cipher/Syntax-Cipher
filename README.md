@@ -14,9 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ... He
 - ⚡ Fun fact: ... First language was Processing; I Have decided on Software Engineering after I JUST finished my first year of Engineering in Canada. Initially, I thought I was going to pursue Mechanical/Electrical; with this in mind, I am only a beginner programmer & have MUCH to learn. I'm this will be a beneficial took to aid my learning process
   
-<<---------------------------->>
-  Sincerely,
-  Current Engineering Student,
-  Future Software Engineer,
-  Chad Holst
-<<---------------------------->>
+  Current Engineering Student;
+  Future Software Engineer;
+   return Chad Holst
