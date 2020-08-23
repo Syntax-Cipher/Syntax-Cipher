@@ -5,8 +5,8 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ... CodeAcademy tutorials involving Python & also starting to learn C/C++ 
-- 🌱 I’m currently learning ... Computer Science & Machine Learning with Python using CodeAcademy platform & just started C/C++
+- 🔭 I’m currently working on ... Codecademy tutorials involving Python & also starting to learn C/C++ 
+- 🌱 I’m currently learning ... Computer Science & Machine Learning with Python using Codecademy platform & just started C/C++
 - 👯 I’m looking to collaborate on ... Anything involving Python, will learn C/C++ for future projects
 - 🤔 I’m looking for help with ... Incorporating a dictionary function, as well as parent/child classes in my Japanese War Game project I just started (inspired by Ghost of Tsushima video game) 
 - 💬 Ask me about ... Engineering/Mathematics/Science
